@@ -1,0 +1,29 @@
+
+
+/*=== Media ===*/
+@media screen and (max-width: 480px) {
+
+
+
+
+}
+
+@media screen and (max-width: 720px) {
+/*=== Header-content-wrap ===*/
+
+/*=== Top nav ===*/
+
+
+
+
+/*=== Header-content-wrap ===*/
+.container-wrap {
+  margin-top: 100px;
+}
+
+.header-content-wrap h1 {
+	font-size: 4em;
+}
+
+
+}
